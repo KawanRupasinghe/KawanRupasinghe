@@ -1,12 +1,19 @@
+<!-- Banner Image -->
+<!-- 
+<p align="center">
+  <img src="assets/LinkedIn Banner.png" alt="Banner" width="100%" />
+</p> 
+-->
+
 <h1 align="center">Hi, I'm Kawan Rupasinghe 👋</h1>
 <h3 align="center">3rd-year CS undergrad 🎓 | Full-stack Developer 💻 | Open to Internships 🚀</h3>
 
 <!-- Sections (single-line style, centered) -->
-<p align="left">
-🚀 <b>Work In Progress:</b> Developing a Swimming Tournament Management System <a href="https://github.com/MPcooray/stms-group-project">STMS</a><br>
-🧠 <b>Currently Learning:</b> Building full-stack applications with .NET<br>
-💼 <b>Experience:</b> Checkout my CV <a href="https://acesse.one/kawan-rupasinghe">here</a><br>
-📫 <b>Get in Touch:</b> <a href="mailto:kawanwrupasinghe@gmail.com">kawanwrupasinghe@gmail.com</a>
+<p align="center">
+🚀 <b>Work In Progress:</b> Developing a Swimming Tournament Management System <a href="https://github.com/MPcooray/stms-group-project">STMS</a><br><br>
+🧠 <b>Currently Learning:</b> Building full-stack applications with .NET<br><br>
+💼 <b>Experience:</b> Checkout my CV <a href="https://acesse.one/kawan-rupasinghe">here</a><br><br>
+📫 <b>Get in Touch:</b> <a href="mailto:kawanwrupasinghe@gmail.com">kawanwrupasinghe@gmail.com</a><br>
 </p>
 
 <!-- Social Links (centered) -->
