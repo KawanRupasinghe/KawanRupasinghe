@@ -6,12 +6,12 @@
 -->
 
 <h1 align="center">Hi, I'm Kawan Rupasinghe 🧑🏻‍💻</h1>
-<h3 align="center">3rd-year CS undergrad 🎓 | Full-stack Developer 💻 | Open to Internships 🚀</h3>
+<h3 align="center">3rd-year CS undergrad 🎓 | Full-stack Developer 💻 | Software Engineer Intern 🚀</h3>
 
 <!-- Sections (single-line style, centered) -->
 <p align="center">
-🚀 <b>Work In Progress:</b> Developing a Swimming Tournament Management System <a href="https://github.com/MPcooray/stms-group-project">STMS</a><br><br>
-🧠 <b>Currently Learning:</b> Building full-stack applications with .NET<br><br>
+🚀 <b>Work In Progress:</b> Developing an Integrated Network Management System <a href="https://github.com/MPcooray/stms-group-project">INMS</a><br><br>
+🧠 <b>Currently Learning:</b> Building mobile applications using Kotlin<br><br>
 💼 <b>Experience:</b> Checkout my CV <a href="https://github.com/kawanrupasinghe/kawanrupasinghe/blob/main/assets/kawan-rupasinghe.pdf">here</a><br><br>
 📫 <b>Get in Touch:</b> <a href="mailto:kawanwrupasinghe@gmail.com">kawanwrupasinghe@gmail.com</a><br>
 </p>
