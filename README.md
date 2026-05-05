@@ -5,19 +5,18 @@
 </p> 
 -->
 
-<h1 align="center">Hi, I'm Kawan Rupasinghe 🧑🏻‍💻</h1>
-<h3 align="center">3rd-year CS undergrad 🎓 | Full-stack Developer 💻 | Software Engineer Intern 👨‍💻</h3>
+<h1 align="center">Hi, I'm Kawan 🙋‍♂️</h1>
+<h3 align="center">Computer Science undergraduate 🎓 | Full-stack Developer 👨‍💻</h3>
 
 <!-- Sections (single-line style, centered) -->
 <p align="center">
-🚀 <b>Work In Progress:</b> Developing an Integrated Network Management System <a href="https://github.com/MPcooray/stms-group-project"></a><br><br>
-🧠 <b>Currently Learning:</b> Building mobile applications using Kotlin<br><br>
-💼 <b>Experience:</b> Checkout my CV <a href="https://github.com/kawanrupasinghe/kawanrupasinghe/blob/main/assets/kawan-rupasinghe.pdf">here</a><br><br>
-📫 <b>Get in Touch:</b> <a href="mailto:kawanwrupasinghe@gmail.com">kawanwrupasinghe@gmail.com</a><br>
+🚀 <b>Currently Building:</b><br> An Integrated Network Management System for efficient infrastructure monitoring <br><br>  
+🧠 <b>Exploring:</b><br> Mobile app development with Kotlin and modern Android tools <br><br>
+💼 <b>Experience:</b><br> View my resume <a href="https://github.com/kawanrupasinghe/kawanrupasinghe/blob/main/assets/kawan-rupasinghe.pdf">here</a><br><br>
 </p>
 
 <!-- Social Links (centered) -->
-<h3 align="center">Connect with me</h3>
+<h3 align="center">🤝 Let's Connect</h3>
 <table align="center">
   <tr>
     <td align="center">
@@ -35,11 +34,16 @@
         <img src="https://gist.githubusercontent.com/IgnaceMaes/744cd9cf41ec6acf46fc8f4e9f370f86/raw/x-logo.svg" height="30" width="40"/>
       </a>
     </td>
+    <td align="center">
+      <a href="mailto:kawanwrupasinghe@gmail.com">
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="30"/>
+      </a>
+    </td>
   </tr>
 </table>
 
 <!-- Languages & Tools (centered) -->
-<h3 align="center">Languages & Tools</h3>
+<h3 align="center">🛠️ Tech Stack</h3>
 <table align="center">
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td>
@@ -57,7 +61,7 @@
 </table>
 
 <!-- GitHub Stats (2x2 grid, centered) -->
-<h3 align="center">GitHub Stats</h3>
+<h3 align="center">📊 GitHub Insights</h3>
 <table align="center">
   <tr>
     <td>
@@ -79,6 +83,7 @@
 
 <!-- Thank you section -->
 <h3 align="center">Kawan Rupasinghe 💼</h3>
-<p align="center">Thank you for visiting my profile! 🤝 Open to connect and collaborate.</p>
+<p align="center">Thanks for stopping by! 🙌  
+Always open for collaborating on exciting projects and ideas 🚀</p>
 
 
