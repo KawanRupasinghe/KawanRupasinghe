@@ -171,6 +171,7 @@ Web-based telecom network simulation system for fault detection, alarm handling,
 
 <br/>
 
+
 <!-- ========================================================= -->
 <!--                       GITHUB STATS                        -->
 <!-- ========================================================= -->
@@ -183,8 +184,7 @@ Web-based telecom network simulation system for fault detection, alarm handling,
 <td align="center">
 
 <img
-  height="170"
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=kawanrupasinghe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=stars"
+  src="https://streak-stats.demolab.com?user=kawanrupasinghe&theme=tokyonight&hide_border=true"
 />
 
 </td>
@@ -201,16 +201,13 @@ Web-based telecom network simulation system for fault detection, alarm handling,
 </tr>
 </table><br>
 
-<!-- ========================================================= -->
-<!--                      CURRENT FOCUS                        -->
-<!-- ========================================================= -->
 
-<h2 align="center">🎯 Current Focus</h2>
+<!-- ========================================================= -->
+<!--                         PHILOSOPHY                        -->
+<!-- ========================================================= -->
 
 <p align="center">
-  📱 Native Android Development with Kotlin <br/>
-  ⚡ Full-Stack Development with .NET & React <br/>
-  🚀 CI/CD Workflows & Deployment Pipelines
+  <i>"𝚃𝚑𝚎 𝚋𝚎𝚜𝚝 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝚑𝚒𝚍𝚎𝚜 𝚌𝚘𝚖𝚙𝚕𝚎𝚡𝚒𝚝𝚢 𝚋𝚎𝚑𝚒𝚗𝚍 𝚒𝚗𝚝𝚞𝚒𝚝𝚒𝚟𝚎 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜."</i>
 </p>
 
 <br/>
@@ -220,7 +217,7 @@ Web-based telecom network simulation system for fault detection, alarm handling,
 <!-- ========================================================= -->
 
 <p align="center">
-  Thanks for visiting my profile 🙌
+  Thanks for stopping by 🙌
   <br/>
-  Open to collabs — works on my machine™ ⚡
+  Open to collabs & caffeine ☕
 </p>
