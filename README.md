@@ -22,33 +22,75 @@
   <code>𝚠𝚑𝚒𝚕𝚎(𝚝𝚛𝚞𝚎) { 𝙲𝚘𝚍𝚎(); 𝙻𝚎𝚊𝚛𝚗(); 𝙸𝚗𝚗𝚘𝚟𝚊𝚝𝚎(); }</code>
 </p>
 
+<br/>
 
 <!-- ========================================================= -->
-<!--                        TECH STACK                         -->
+<!--                         RESUME                            -->
 <!-- ========================================================= -->
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<p align="center">
+  <a href="https://github.com/kawanrupasinghe/kawanrupasinghe/blob/main/assets/kawan-rupasinghe.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Resume-1f6feb?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  </a>
+</p>
+
+<br/>
+
+<!-- ========================================================= -->
+<!--                      CONNECT SECTION                      -->
+<!-- ========================================================= -->
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+
+<a href="https://linkedin.com/in/kawan-rupasinghe" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/kaawan.r" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/Kaawan_R" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="mailto:kawanwrupasinghe@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<br/>
+
+
+<!-- ========================================================= -->
+<!--                 TECHNOLOGIES & TOOLS                      -->
+<!-- ========================================================= -->
+
+<h2 align="center">⚡ Technologies & Tools</h2>
 
 <table align="center">
 
 <tr>
 
-<td align="center" width="50%">
+<td align="center" width="50%" valign="top">
 
 ### 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,js,cs" />
+  <img src="https://skillicons.dev/icons?i=c,java,kotlin,js,cs" />
 </p>
 
 </td>
 
-<td align="center" width="50%">
+<td align="center" width="50%" valign="top">
 
 ### 🎨 Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind" />
 </p>
 
 </td>
@@ -57,30 +99,74 @@
 
 <tr>
 
-<td align="center" width="50%">
+<td align="center" width="50%" valign="top">
 
-### ⚙️ Backend
+### ⚙️ Backend & Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,spring" />
+  <img src="https://skillicons.dev/icons?i=dotnet,spring,mysql,azure,mongodb" />
+  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" height="48"/>
 </p>
 
 </td>
 
-<td align="center" width="50%">
+<td align="center" width="50%" valign="top">
 
-### 🗄️ Databases & Tools
+### 🛠️ Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,figma,postman" />
-  <br/><br/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=mssql" height="48"/>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,git,figma,postman" />
 </p>
 
 </td>
 
 </tr>
 
+</table><br>
+
+
+<!-- ========================================================= -->
+<!--                     FEATURED PROJECTS                     -->
+<!-- ========================================================= -->
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table align="center">
+<tr>
+
+<td width="50%" valign="top">
+
+### 🔹 AquaChamps
+Inter-university swimming tournament management platform with automated event handling, live results, and public leaderboards.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔹 The Glaze
+Modern bakery management system built using Spring Boot, React + Vite, and MySQL.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🔹 FormLangPP-DSL
+Custom DSL using Flex & Bison for automated HTML form generation through compiler design concepts.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔹 Integrated Network Management System
+Web-based telecom network simulation system for fault detection, alarm handling, node failures, and downstream impact analysis.
+
+</td>
+
+</tr>
 </table>
 
 <br/>
@@ -89,7 +175,7 @@
 <!--                       GITHUB STATS                        -->
 <!-- ========================================================= -->
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <table align="center">
 <tr>
@@ -98,7 +184,7 @@
 
 <img
   height="170"
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=kawanrupasinghe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=kawanrupasinghe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=stars"
 />
 
 </td>
@@ -113,12 +199,28 @@
 </td>
 
 </tr>
-</table>
+</table><br>
+
+<!-- ========================================================= -->
+<!--                      CURRENT FOCUS                        -->
+<!-- ========================================================= -->
+
+<h2 align="center">🎯 Current Focus</h2>
 
 <p align="center">
+  📱 Native Android Development with Kotlin <br/>
+  ⚡ Full-Stack Development with .NET & React <br/>
+  🚀 CI/CD Workflows & Deployment Pipelines
+</p>
 
-<img
-  src="https://streak-stats.demolab.com?user=kawanrupasinghe&theme=tokyonight&hide_border=true"
-/>
+<br/>
 
+<!-- ========================================================= -->
+<!--                         FOOTER                            -->
+<!-- ========================================================= -->
+
+<p align="center">
+  Thanks for visiting my profile 🙌
+  <br/>
+  Open to collabs — works on my machine™ ⚡
 </p>
