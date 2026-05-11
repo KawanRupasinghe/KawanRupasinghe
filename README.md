@@ -1,89 +1,124 @@
-<!-- Banner Image -->
-<!-- 
-<p align="center">
-  <img src="assets/LinkedIn Banner.png" alt="Banner" width="100%" />
-</p> 
--->
+<!-- ========================================================= -->
+<!--                     HEADER SECTION                        -->
+<!-- ========================================================= -->
 
-<h1 align="center">Hi, I'm Kawan 🙋‍♂️</h1>
-<h3 align="center">Computer Science undergraduate 🎓 | Full-stack Developer 👨‍💻</h3>
+<h1 align="center">
+  𝙷𝚒 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+  𝙸'𝚖 𝙺𝚊𝚠𝚊𝚗 𝚁𝚞𝚙𝚊𝚜𝚒𝚗𝚐𝚑𝚎
+</h1>
 
-<!-- Sections (single-line style, centered) -->
+<h3 align="center">
+  Computer Science Undergraduate • Full-Stack Developer
+</h3>
+
 <p align="center">
-🚀 <b>Currently Building:</b><br> An Integrated Network Management System for efficient infrastructure monitoring <br><br>  
-🧠 <b>Exploring:</b><br> Mobile app development with Kotlin and modern Android tools <br><br>
-💼 <b>Experience:</b><br> View my resume <a href="https://github.com/kawanrupasinghe/kawanrupasinghe/blob/main/assets/kawan-rupasinghe.pdf">here</a><br><br>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=.NET+%7C+React+%7C+Java+%7C+Kotlin;Full-Stack+Application+Development;UI%2FUX+Design+%26+CI%2FCD+Workflows"
+    alt="Typing Animation"
+  />
 </p>
 
-<!-- Social Links (centered) -->
-<h3 align="center">🤝 Let's Connect</h3>
+<p align="center"> 
+  <code>𝚠𝚑𝚒𝚕𝚎(𝚝𝚛𝚞𝚎) { 𝙲𝚘𝚍𝚎(); 𝙻𝚎𝚊𝚛𝚗(); 𝙸𝚗𝚗𝚘𝚟𝚊𝚝𝚎(); }</code>
+</p>
+
+
+<!-- ========================================================= -->
+<!--                        TECH STACK                         -->
+<!-- ========================================================= -->
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
 <table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://linkedin.com/in/kawan-rupasinghe" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://instagram.com/kaawan.r" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://twitter.com/Kaawan_R" target="_blank">
-        <img src="https://gist.githubusercontent.com/IgnaceMaes/744cd9cf41ec6acf46fc8f4e9f370f86/raw/x-logo.svg" height="30" width="40"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:kawanwrupasinghe@gmail.com">
-        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="30"/>
-      </a>
-    </td>
-  </tr>
+
+<tr>
+
+<td align="center" width="50%">
+
+### 💻 Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,js,cs" />
+</p>
+
+</td>
+
+<td align="center" width="50%">
+
+### 🎨 Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
+
+### ⚙️ Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,spring" />
+</p>
+
+</td>
+
+<td align="center" width="50%">
+
+### 🗄️ Databases & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,figma,postman" />
+  <br/><br/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mssql" height="48"/>
+</p>
+
+</td>
+
+</tr>
+
 </table>
 
-<!-- Languages & Tools (centered) -->
-<h3 align="center">🛠️ Tech Stack</h3>
+<br/>
+
+<!-- ========================================================= -->
+<!--                       GITHUB STATS                        -->
+<!-- ========================================================= -->
+
+<h2 align="center">📊 GitHub Stats</h2>
+
 <table align="center">
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></td>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></td>
-  </tr>
+<tr>
+
+<td align="center">
+
+<img
+  height="170"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=kawanrupasinghe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+/>
+
+</td>
+
+<td align="center">
+
+<img
+  height="170"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kawanrupasinghe&layout=compact&theme=tokyonight&hide_border=true"
+/>
+
+</td>
+
+</tr>
 </table>
 
-<!-- GitHub Stats (2x2 grid, centered) -->
-<h3 align="center">📊 GitHub Insights</h3>
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kawanrupasinghe&hide_border=true&background=0d1117&stroke=58a6ff&fire=ff7f50&currStreakLabel=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff&sideNums=ffffff" alt="GitHub Streak" width="450"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawanrupasinghe&layout=compact&hide_title=true&hide_border=true&bg_color=0d1117&text_color=58a6ff&icon_color=58a6ff" alt="Top Languages" width="450"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=kawanrupasinghe&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=58a6ff&icon_color=58a6ff" alt="GitHub Stats" width="450"/>
-    </td>
-    <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=kawanrupasinghe&theme=dark" alt="GitHub Trophies" width="450"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
 
-<!-- Thank you section -->
-<h3 align="center">Kawan Rupasinghe 💼</h3>
-<p align="center">Thanks for stopping by! 🙌  
-Always open for collaborating on exciting projects and ideas 🚀</p>
+<img
+  src="https://streak-stats.demolab.com?user=kawanrupasinghe&theme=tokyonight&hide_border=true"
+/>
 
-
+</p>
